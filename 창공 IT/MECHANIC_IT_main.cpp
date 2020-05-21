@@ -11,9 +11,9 @@
 
 using namespace std;
 
-int main()
-{
-    cout << "Hello, World!";
-    
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    cout << "Hello, World!\n";
+    cout << "Hard to know people's mind..";
     return 0;
 }

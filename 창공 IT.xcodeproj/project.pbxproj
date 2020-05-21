@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		374341AF2463E20800771A39 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 374341AE2463E20800771A39 /* main.cpp */; };
 		374341B82463E59900771A39 /* MECHANIC_IT_main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 374341B62463E59900771A39 /* MECHANIC_IT_main.cpp */; };
 /* End PBXBuildFile section */
 
@@ -25,7 +24,6 @@
 
 /* Begin PBXFileReference section */
 		374341AB2463E20800771A39 /* 창공 IT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "창공 IT"; sourceTree = BUILT_PRODUCTS_DIR; };
-		374341AE2463E20800771A39 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		374341B62463E59900771A39 /* MECHANIC_IT_main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MECHANIC_IT_main.cpp; sourceTree = "<group>"; };
 		374341B72463E59900771A39 /* MECHANIC_IT_main.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = MECHANIC_IT_main.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -60,7 +58,6 @@
 		374341AD2463E20800771A39 /* 창공 IT */ = {
 			isa = PBXGroup;
 			children = (
-				374341AE2463E20800771A39 /* main.cpp */,
 				374341B62463E59900771A39 /* MECHANIC_IT_main.cpp */,
 				374341B72463E59900771A39 /* MECHANIC_IT_main.hpp */,
 			);
@@ -124,7 +121,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				374341AF2463E20800771A39 /* main.cpp in Sources */,
 				374341B82463E59900771A39 /* MECHANIC_IT_main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
